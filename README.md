@@ -1,4 +1,4 @@
-Crunchy-Corner-Business-Optimization-Budgeting
+#Crunchy-Corner-Business-Optimization-Budgeting
 Project Overview In this project, I analyzed Crunchy Corner's sales data using Power BI. I used both basic data processing techniques and advanced DAX formulas. I looked at important metrics like Net Profit, category performance, SKU, EBITDA, and Gross Profit. Additionally, I performed Pareto analysis, PVM, quadrant analysis, performance analysis, and cost analysis to provide useful insights for the business.
 
 Techniques and Tools Used ETL Techniques in Excel:
@@ -8,7 +8,7 @@ Data Modal
 <img width="1167" height="510" alt="image" src="https://github.com/user-attachments/assets/88d8f6dd-6ec5-4465-9954-b9ae2b1eba27" />
 
 
-Overall Analyis view
+#Overall Analyis view
 MODAL 1: Financial Performance Analysis
 Overall Sales, Gross Profit, EBITDA, Net Profit, SKU
 Show YoY Change for Following (Sales, Gross Profit, EBITDA, Net Profit)
@@ -17,7 +17,8 @@ Show 100% Stake column chart showing (Sales, Gross Profit, Editda, Net Profit)
 Show Sales by Category & Location
 Sales bifurcation by channel
 Volume & Trand By Category
-image
+<img width="964" height="598" alt="image" src="https://github.com/user-attachments/assets/fcd9da13-1a0d-4cbf-ac30-c5510ac677c7" />
+
 
 image
 
